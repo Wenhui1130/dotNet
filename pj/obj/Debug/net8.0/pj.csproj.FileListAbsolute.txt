@@ -1,0 +1,15 @@
+/Users/lilylee/Documents/sql/pj/bin/Debug/net8.0/pj
+/Users/lilylee/Documents/sql/pj/bin/Debug/net8.0/pj.deps.json
+/Users/lilylee/Documents/sql/pj/bin/Debug/net8.0/pj.runtimeconfig.json
+/Users/lilylee/Documents/sql/pj/bin/Debug/net8.0/pj.dll
+/Users/lilylee/Documents/sql/pj/bin/Debug/net8.0/pj.pdb
+/Users/lilylee/Documents/sql/pj/obj/Debug/net8.0/pj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lilylee/Documents/sql/pj/obj/Debug/net8.0/pj.AssemblyInfoInputs.cache
+/Users/lilylee/Documents/sql/pj/obj/Debug/net8.0/pj.AssemblyInfo.cs
+/Users/lilylee/Documents/sql/pj/obj/Debug/net8.0/pj.csproj.CoreCompileInputs.cache
+/Users/lilylee/Documents/sql/pj/obj/Debug/net8.0/pj.sourcelink.json
+/Users/lilylee/Documents/sql/pj/obj/Debug/net8.0/pj.dll
+/Users/lilylee/Documents/sql/pj/obj/Debug/net8.0/refint/pj.dll
+/Users/lilylee/Documents/sql/pj/obj/Debug/net8.0/pj.pdb
+/Users/lilylee/Documents/sql/pj/obj/Debug/net8.0/pj.genruntimeconfig.cache
+/Users/lilylee/Documents/sql/pj/obj/Debug/net8.0/ref/pj.dll
